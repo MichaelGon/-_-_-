@@ -1,4 +1,4 @@
-# Работа с Redis и Radis-cluster
+# Работа с Redis и Redis-cluster
 
 ## Установка Redis
 
